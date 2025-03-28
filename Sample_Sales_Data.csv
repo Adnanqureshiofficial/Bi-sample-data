@@ -1,0 +1,13 @@
+Date,Product,Category,Sales,Quantity,Region
+2023-01-01,A,Electronics,200,20,North
+2023-01-01,B,Clothing,150,15,South
+2023-01-01,C,Accessories,50,5,East
+2023-02-01,A,Electronics,300,30,North
+2023-02-01,B,Clothing,180,18,South
+2023-02-01,C,Accessories,80,8,East
+2023-03-01,A,Electronics,250,25,North
+2023-03-01,B,Clothing,170,17,South
+2023-03-01,C,Accessories,70,7,East
+2023-04-01,A,Electronics,220,22,North
+2023-04-01,B,Clothing,160,16,South
+2023-04-01,C,Accessories,60,6,East
